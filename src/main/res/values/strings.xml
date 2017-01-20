@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EvaluacionUno</string>
+    <string name="title_activity_operacion1">Operacion1Activity</string>
+    <string name="title_activity_operacion2">operacion2</string>
+    <string name="resolver_operacion_uno">Resolver operacion UNO</string>
+    <string name="resolver_operacion_dos">Resolver Operacion DOS</string>
+    <string name="operacion_dos">(4x-5y)^2</string>
+    <string name="valor_x">Introduce el valor de X</string>
+    <string name="valor_y">Introduce el valor de Y</string>
+    <string name="operacion_uno">(2x+3y)^2</string>
+    <string name="valor_x_uno">Valor de X</string>
+    <string name="valor_y_uno">Valor de Y</string>
+</resources>
